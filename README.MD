@@ -54,4 +54,9 @@
 
 # Como Instalar e Rodar o Projeto
 
-# Contribuições e Contato
+
+# Contato
+
+- **Email**: [henriquepachecj@gmail.com](mailto:henriquepachecj@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/henriquepachecoprogramador/](https://www.linkedin.com/in/henriquepachecoprogramador/)
+- **GitHub**: [github.com/hpachecoj](https://github.com/hpachecoj)
