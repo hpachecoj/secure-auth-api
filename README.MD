@@ -1,6 +1,7 @@
+![Logo Secure Auth API](https://github.com/hpachecoj/secure-auth-api/blob/main/api-auth/logo-secure-auth-api.png)
 # Secure Auth API 
 É uma API de Autenticação e Autorização Completa.
-![Descrição da Imagem](secure-auth-api/logo-secure-auth-api.png)
+
 
 
 # Tecnologias utilizadas
