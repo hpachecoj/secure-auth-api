@@ -1,4 +1,4 @@
-# SecureAuthAPI 
+# Secure Auth API 
 É uma API de Autenticação e Autorização Completa.
 
 # Tecnologias utilizadas
