@@ -1,6 +1,8 @@
 # Secure Auth API 
 É uma API de Autenticação e Autorização Completa.
 
+logo-secure-auth-api.png
+
 # Tecnologias utilizadas
 - Node.js(Express/Nest.js)
 - JWT
